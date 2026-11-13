@@ -1,0 +1,20 @@
+MISSÃO NÉFRON VIVO — JOGO DE ARRASTAR MOLÉCULAS
+
+NOVIDADE PRINCIPAL
+- Pegue a molécula na bandeja inferior, SEGURE e ARRASTE com o dedo ou mouse até uma das zonas luminosas NA PRÓPRIA CENA ANATÔMICA.
+- Solte a molécula para validar a decisão. Acerto: encaixe e +5 moedas. Erro: indicação e nova tentativa.
+- Seis missões: filtração, reabsorção, alça do néfron, secreção, ADH, eliminação.
+- O progresso e as moedas ficam salvos no dispositivo.
+- Para acessibilidade, também é possível selecionar a molécula e tocar na zona.
+
+COMO TESTAR SEM INSTALAR
+Abra arrastar.html (dentro desta pasta) no navegador. Melhor ainda: abra o arquivo independente JOGAR_NEFRON_ARRASTAR_MOLECULAS.html fornecido separadamente; não exige pasta de imagens.
+
+COMO ABRIR O ATLAS COMPLETO
+Abra index.html para acessar slides, blocos, atlas de estruturas, desafios e o novo botão "Arrastar moléculas".
+
+COMO INSTALAR NO CELULAR
+PWA precisa de endereço HTTPS (ou localhost). Publique esta pasta em uma hospedagem HTTPS e abra o link no navegador. Android: instalar aplicativo. iPhone: Safari > Compartilhar > Adicionar à Tela de Início.
+
+OBSERVAÇÃO ACADÊMICA
+A imagem anatômica é ilustrativa e as moléculas móveis são simulações didáticas, NÃO 3D de malha anatomicamente vinculada. Regras fisiológicas são simplificadas; imagens e legendas fornecidas devem passar por revisão anatômica antes do uso como gabarito oficial.

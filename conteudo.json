@@ -1,0 +1,1294 @@
+{
+  "titulo": "ATLAS IMERSIVO | Anatomia Clínica — Roteiro PWA",
+  "subtitulo": "Sistemas urinário e genitais, parede pélvica e períneo",
+  "base_estrutural": "Roteiro prático de Anatomia, UEM/DCM/Medicina, seis páginas, fornecido pela usuária",
+  "referencia_conceitual": "Moore: Anatomia Orientada para a Clínica, 9ª edição (Guanabara Koogan); textos didáticos autorais, sem referência a trechos/páginas específicos",
+  "quantidade_total_de_entradas": 170,
+  "modulos": [
+    {
+      "modulo": "01 — Rim e suprarrenal",
+      "pagina_roteiro": 1,
+      "cena_3d": "Rins em retroperitônio com transparência progressiva, secção coronal, vasos e pirâmides destacáveis",
+      "estruturas": [
+        {
+          "id": "01_—_rim_e_suprarrenal-001",
+          "estrutura": "Margem lateral do rim",
+          "explicacao": "Contorno convexo voltado lateralmente, oposto ao hilo renal.",
+          "curiosidade_clinica": "Na ultrassonografia, seu contorno ajuda a reconhecer a morfologia renal.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-002",
+          "estrutura": "Margem medial do rim",
+          "explicacao": "Borda côncava voltada para os grandes vasos, onde se abre o hilo.",
+          "curiosidade_clinica": "Na vizinhança do hilo situam-se vasos e a pelve renal, essenciais em cirurgias.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-003",
+          "estrutura": "Hilo renal",
+          "explicacao": "Fenda da margem medial que dá passagem ao pedículo renal.",
+          "curiosidade_clinica": "Em geral, da frente para trás, encontram-se veia, artéria e pelve renal.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-004",
+          "estrutura": "Face anterior renal",
+          "explicacao": "Superfície relacionada a vísceras abdominais e peritônio, com contatos distintos à direita e à esquerda.",
+          "curiosidade_clinica": "O rim direito relaciona-se anteriormente ao fígado; o esquerdo, ao baço e ao estômago.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-005",
+          "estrutura": "Face posterior renal",
+          "explicacao": "Superfície apoiada na parede posterior do abdome e músculos adjacentes.",
+          "curiosidade_clinica": "O contato com diafragma e costelas explica cuidados no acesso posterior ao rim.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-006",
+          "estrutura": "Polo superior renal",
+          "explicacao": "Extremidade cranial do rim, próxima à glândula suprarrenal.",
+          "curiosidade_clinica": "O rim esquerdo costuma estar ligeiramente mais alto que o direito.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-007",
+          "estrutura": "Polo inferior renal",
+          "explicacao": "Extremidade caudal, normalmente abaixo do polo superior contralateral correspondente.",
+          "curiosidade_clinica": "A posição dos polos muda com a respiração pela mobilidade renal.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-008",
+          "estrutura": "Corpo adiposo pararrenal",
+          "explicacao": "Gordura externa à fáscia renal que contribui para sustentação e proteção.",
+          "curiosidade_clinica": "Diferencie a gordura pararrenal da perirrenal ao interpretar imagens tomográficas.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-009",
+          "estrutura": "Fáscia renal",
+          "explicacao": "Envoltório de tecido conjuntivo que delimita o compartimento perirrenal.",
+          "curiosidade_clinica": "Coleções podem se disseminar conforme os planos fasciais retroperitoneais.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-010",
+          "estrutura": "Cápsula adiposa perirrenal",
+          "explicacao": "Tecido adiposo entre a cápsula fibrosa e a fáscia renal.",
+          "curiosidade_clinica": "A gordura perirrenal ajuda a amortecer movimentos e impactos.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-011",
+          "estrutura": "Cápsula fibrosa renal",
+          "explicacao": "Lâmina conjuntiva resistente que recobre diretamente o parênquima renal.",
+          "curiosidade_clinica": "Em alguns processos inflamatórios, sua separação cirúrgica pode ser difícil.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-012",
+          "estrutura": "Córtex renal",
+          "explicacao": "Zona periférica que abriga corpúsculos renais e segmentos tubulares.",
+          "curiosidade_clinica": "A distinção córtico-medular é parâmetro de avaliação ultrassonográfica.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-013",
+          "estrutura": "Colunas renais",
+          "explicacao": "Extensões do córtex que penetram entre as pirâmides medulares.",
+          "curiosidade_clinica": "Colunas proeminentes podem simular massas, apesar de serem variantes normais.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-014",
+          "estrutura": "Pirâmides renais",
+          "explicacao": "Estruturas cônicas medulares cujos ápices se dirigem aos cálices.",
+          "curiosidade_clinica": "Os túbulos coletores conduzem urina em direção às papilas.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-015",
+          "estrutura": "Papilas renais",
+          "explicacao": "Ápices das pirâmides que desembocam nos cálices menores.",
+          "curiosidade_clinica": "Obstrução ou necrose papilar pode alterar a drenagem urinária.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-016",
+          "estrutura": "Cálices renais menores",
+          "explicacao": "Pequenas cavidades que recebem urina das papilas.",
+          "curiosidade_clinica": "O número e a disposição dos cálices variam entre indivíduos.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-017",
+          "estrutura": "Cálices renais maiores",
+          "explicacao": "Cavidades formadas pela confluência de cálices menores.",
+          "curiosidade_clinica": "São parte do sistema coletor visualizado em exames contrastados.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-018",
+          "estrutura": "Pelve renal",
+          "explicacao": "Expansão funiliforme que recebe urina dos cálices maiores antes do ureter.",
+          "curiosidade_clinica": "Cálculos nessa região podem comprometer a drenagem de vários cálices.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-019",
+          "estrutura": "Artéria segmentar renal superior",
+          "explicacao": "Ramo arterial que irriga um território renal superior.",
+          "curiosidade_clinica": "As artérias segmentares têm pouca circulação colateral funcional, relevante em ressecções.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-020",
+          "estrutura": "Artéria segmentar renal anterossuperior",
+          "explicacao": "Ramo destinado ao segmento anterossuperior do rim.",
+          "curiosidade_clinica": "A irrigação por segmentos permite planejar cirurgias poupadoras de parênquima.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-021",
+          "estrutura": "Artéria segmentar renal anteroinferior",
+          "explicacao": "Ramo destinado ao segmento anteroinferior do rim.",
+          "curiosidade_clinica": "A obstrução pode causar isquemia no território irrigado.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-022",
+          "estrutura": "Artéria segmentar renal inferior",
+          "explicacao": "Ramo que atende predominantemente a porção inferior do rim.",
+          "curiosidade_clinica": "Artérias polares acessórias podem acompanhar variações dessa distribuição.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-023",
+          "estrutura": "Artéria arqueada renal",
+          "explicacao": "Vaso que acompanha a junção corticomedular, na base das pirâmides.",
+          "curiosidade_clinica": "Sua distribuição ajuda a entender a ramificação intrarrenal em imagens.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-024",
+          "estrutura": "Glândula suprarrenal",
+          "explicacao": "Órgão endócrino sobre o polo superior renal, separado funcionalmente do rim.",
+          "curiosidade_clinica": "Apesar da proximidade, sua função é hormonal, não de produção de urina.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-025",
+          "estrutura": "Artérias suprarrenais superiores",
+          "explicacao": "Ramos geralmente originados das artérias frênicas inferiores.",
+          "curiosidade_clinica": "Uma pequena glândula recebe múltiplos ramos arteriais.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-026",
+          "estrutura": "Artéria suprarrenal média",
+          "explicacao": "Ramo normalmente proveniente da aorta abdominal.",
+          "curiosidade_clinica": "O padrão vascular pode variar e importa no planejamento operatório.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "01_—_rim_e_suprarrenal-027",
+          "estrutura": "Artérias suprarrenais inferiores",
+          "explicacao": "Ramos habitualmente derivados das artérias renais.",
+          "curiosidade_clinica": "As veias suprarrenais têm drenagem assimétrica entre direita e esquerda.",
+          "pagina_roteiro": 1
+        }
+      ],
+      "quantidade": 27
+    },
+    {
+      "modulo": "02 — Ureter, bexiga e uretra",
+      "pagina_roteiro": 1,
+      "cena_3d": "Percurso da urina com gota luminosa, ureter com peristalse e bexiga em corte móvel",
+      "estruturas": [
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-001",
+          "estrutura": "Parte abdominal do ureter",
+          "explicacao": "Segmento retroperitoneal que desce da pelve renal até a entrada da pelve.",
+          "curiosidade_clinica": "Um cálculo pode impactar-se próximo à junção ureteropélvica.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-002",
+          "estrutura": "Parte pélvica do ureter",
+          "explicacao": "Segmento que percorre a parede lateral pélvica em direção à bexiga.",
+          "curiosidade_clinica": "Na mulher, passa inferiormente à artéria uterina, relação cirúrgica decisiva.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-003",
+          "estrutura": "Parte intramural do ureter",
+          "explicacao": "Trajeto oblíquo do ureter através da parede vesical.",
+          "curiosidade_clinica": "Sua obliquidade ajuda a limitar o refluxo de urina durante a micção.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-004",
+          "estrutura": "Ápice da bexiga e ligamento umbilical mediano",
+          "explicacao": "Extremidade anterior da bexiga, relacionada ao remanescente fibroso do úraco.",
+          "curiosidade_clinica": "Persistências do úraco podem originar alterações na linha mediana.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-005",
+          "estrutura": "Corpo da bexiga",
+          "explicacao": "Porção distensível que armazena urina entre as micções.",
+          "curiosidade_clinica": "Seu volume e sua forma mudam consideravelmente ao encher.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-006",
+          "estrutura": "Fundo da bexiga",
+          "explicacao": "Superfície posterior, oposta ao ápice, relacionada a estruturas pélvicas.",
+          "curiosidade_clinica": "As relações do fundo diferem entre as anatomias masculina e feminina.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-007",
+          "estrutura": "Úvula da bexiga",
+          "explicacao": "Pequena elevação próxima ao óstio interno da uretra, mais perceptível em certos casos.",
+          "curiosidade_clinica": "Na próstata aumentada, a elevação na região do colo pode se acentuar.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-008",
+          "estrutura": "Trígono vesical",
+          "explicacao": "Área lisa delimitada pelos dois óstios ureterais e pelo óstio interno da uretra.",
+          "curiosidade_clinica": "Sua mucosa é menos pregueada do que a do restante da bexiga vazia.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-009",
+          "estrutura": "Prega interuretérica",
+          "explicacao": "Relevo mucoso que une os óstios dos dois ureteres.",
+          "curiosidade_clinica": "Serve como referência de orientação durante a cistoscopia.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-010",
+          "estrutura": "Óstio ureteral",
+          "explicacao": "Abertura pela qual cada ureter desemboca na bexiga.",
+          "curiosidade_clinica": "O aspecto dos jatos ureterais pode ser observado em exames endoscópicos.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-011",
+          "estrutura": "Óstio interno da uretra",
+          "explicacao": "Abertura na saída da bexiga para a uretra.",
+          "curiosidade_clinica": "Integra a região do colo vesical, fundamental no mecanismo de continência.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-012",
+          "estrutura": "Uretra masculina intramural",
+          "explicacao": "Curto trecho uretral no colo vesical, antes da próstata.",
+          "curiosidade_clinica": "Sua topografia participa dos mecanismos de fechamento do colo vesical.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-013",
+          "estrutura": "Uretra masculina prostática",
+          "explicacao": "Segmento que atravessa a próstata e recebe aberturas dos ductos ejaculatórios.",
+          "curiosidade_clinica": "Doenças da próstata podem alterar o fluxo urinário.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-014",
+          "estrutura": "Uretra masculina membranácea",
+          "explicacao": "Trecho curto que atravessa a região do esfíncter externo da uretra.",
+          "curiosidade_clinica": "Lesões pélvicas podem comprometer esse segmento e a continência.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-015",
+          "estrutura": "Uretra masculina esponjosa",
+          "explicacao": "Segmento longo que percorre o corpo esponjoso do pênis.",
+          "curiosidade_clinica": "Possui dilatação distal chamada fossa navicular.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-016",
+          "estrutura": "Óstio externo da uretra masculina",
+          "explicacao": "Abertura terminal da uretra na glande.",
+          "curiosidade_clinica": "É um dos pontos relativamente estreitos da uretra masculina.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-017",
+          "estrutura": "Fossa navicular da uretra",
+          "explicacao": "Dilatação distal da uretra esponjosa localizada na glande.",
+          "curiosidade_clinica": "Seu formato é relevante para instrumentação uretral.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-018",
+          "estrutura": "Óstio interno da uretra feminina",
+          "explicacao": "Abertura da uretra no colo da bexiga.",
+          "curiosidade_clinica": "A uretra feminina é mais curta do que a masculina.",
+          "pagina_roteiro": 1
+        },
+        {
+          "id": "02_—_ureter,_bexiga_e_uretra-019",
+          "estrutura": "Óstio externo da uretra feminina",
+          "explicacao": "Abertura uretral no vestíbulo da vulva, anterior ao óstio vaginal.",
+          "curiosidade_clinica": "Sua proximidade com o períneo ajuda a compreender a ascensão de infecções.",
+          "pagina_roteiro": 1
+        }
+      ],
+      "quantidade": 19
+    },
+    {
+      "modulo": "03 — Escroto, testículo, epidídimo e funículo",
+      "pagina_roteiro": 2,
+      "cena_3d": "Anatomia masculina em 3D com camadas do escroto destacáveis, testículo e epidídimo giratórios",
+      "estruturas": [
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-001",
+          "estrutura": "Pele do escroto e rafe",
+          "explicacao": "Revestimento cutâneo fino com linha mediana de fusão visível.",
+          "curiosidade_clinica": "A rafe continua no períneo e na face inferior do pênis.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-002",
+          "estrutura": "Túnica de dartos",
+          "explicacao": "Camada de músculo liso e fáscia superficial que enruga a pele escrotal.",
+          "curiosidade_clinica": "Sua contração ajuda a regular as condições térmicas testiculares.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-003",
+          "estrutura": "Polo superior do testículo",
+          "explicacao": "Extremidade superior próxima à cabeça do epidídimo.",
+          "curiosidade_clinica": "É importante diferenciar testículo e epidídimo na palpação.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-004",
+          "estrutura": "Polo inferior do testículo",
+          "explicacao": "Extremidade inferior próxima à cauda do epidídimo.",
+          "curiosidade_clinica": "A posição e a fixação têm relevância na torção testicular.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-005",
+          "estrutura": "Face lateral do testículo",
+          "explicacao": "Superfície voltada lateralmente, parcialmente recoberta por túnica vaginal.",
+          "curiosidade_clinica": "A túnica vaginal permite certo deslizamento no interior do escroto.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-006",
+          "estrutura": "Face medial do testículo",
+          "explicacao": "Superfície dirigida ao septo escrotal.",
+          "curiosidade_clinica": "O testículo esquerdo frequentemente ocupa posição mais baixa que o direito.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-007",
+          "estrutura": "Margem anterior do testículo",
+          "explicacao": "Borda mais livre, oposta à fixação epididimária posterior.",
+          "curiosidade_clinica": "A orientação das margens ajuda na identificação anatômica em peças.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-008",
+          "estrutura": "Margem posterior do testículo",
+          "explicacao": "Borda relacionada ao epidídimo e à entrada e saída de vasos.",
+          "curiosidade_clinica": "É área essencial ao reconhecer a anatomia do cordão espermático.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-009",
+          "estrutura": "Lâmina visceral da túnica vaginal",
+          "explicacao": "Serosa aderida à superfície testicular em parte de sua extensão.",
+          "curiosidade_clinica": "Entre as lâminas pode acumular-se líquido, formando hidrocele.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-010",
+          "estrutura": "Lâmina parietal da túnica vaginal",
+          "explicacao": "Serosa que reveste internamente o saco vaginal testicular.",
+          "curiosidade_clinica": "A cavidade entre as lâminas normalmente contém pequena quantidade de líquido.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-011",
+          "estrutura": "Ligamento superior do epidídimo",
+          "explicacao": "Fixação da cabeça do epidídimo ao testículo.",
+          "curiosidade_clinica": "Ajuda a identificar a ligação anatômica na extremidade superior.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-012",
+          "estrutura": "Ligamento inferior do epidídimo",
+          "explicacao": "Fixação da cauda do epidídimo ao testículo.",
+          "curiosidade_clinica": "Sua posição ajuda a reconhecer a transição para o ducto deferente.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-013",
+          "estrutura": "Seio do epidídimo",
+          "explicacao": "Recesso da túnica vaginal entre testículo e corpo do epidídimo.",
+          "curiosidade_clinica": "Sua presença facilita a distinção das duas estruturas numa dissecação.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-014",
+          "estrutura": "Cabeça do epidídimo",
+          "explicacao": "Porção volumosa superior que recebe dúctulos eferentes testiculares.",
+          "curiosidade_clinica": "Alterações podem manifestar-se como aumento de volume palpável.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-015",
+          "estrutura": "Corpo do epidídimo",
+          "explicacao": "Porção intermediária que contém ducto muito enovelado.",
+          "curiosidade_clinica": "O longo ducto, apesar de compacto, participa da maturação espermática.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-016",
+          "estrutura": "Cauda do epidídimo",
+          "explicacao": "Extremidade inferior que continua com o ducto deferente.",
+          "curiosidade_clinica": "É local de armazenamento espermático antes do transporte.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-017",
+          "estrutura": "Fáscia espermática interna",
+          "explicacao": "Revestimento do funículo derivado da fáscia transversal.",
+          "curiosidade_clinica": "Sua origem pode ser reconstituída seguindo a descida testicular.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-018",
+          "estrutura": "Fáscia cremastérica",
+          "explicacao": "Camada conjuntiva associada ao músculo cremáster.",
+          "curiosidade_clinica": "Está relacionada às camadas da parede abdominal durante a descida testicular.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-019",
+          "estrutura": "Músculo cremáster",
+          "explicacao": "Músculo estriado que eleva o testículo em certas situações.",
+          "curiosidade_clinica": "O reflexo cremastérico integra o exame neurológico e escrotal.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "03_—_escroto,_testículo,_epidídimo_e_funículo-020",
+          "estrutura": "Fáscia espermática externa",
+          "explicacao": "Cobertura superficial derivada da aponeurose do músculo oblíquo externo.",
+          "curiosidade_clinica": "O funículo preserva uma memória anatômica das camadas abdominais.",
+          "pagina_roteiro": 2
+        }
+      ],
+      "quantidade": 20
+    },
+    {
+      "modulo": "04 — Ductos e glândulas masculinas",
+      "pagina_roteiro": 2,
+      "cena_3d": "Trajeto da célula espermática com ductos em destaque e próstata em corte translúcido",
+      "estruturas": [
+        {
+          "id": "04_—_ductos_e_glândulas_masculinas-001",
+          "estrutura": "Parte escrotal do ducto deferente",
+          "explicacao": "Trecho que emerge da cauda do epidídimo dentro do escroto.",
+          "curiosidade_clinica": "É palpável como cordão firme e pode ser abordado em vasectomia.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "04_—_ductos_e_glândulas_masculinas-002",
+          "estrutura": "Parte funicular do ducto deferente",
+          "explicacao": "Porção que ascende no funículo espermático.",
+          "curiosidade_clinica": "Acompanhá-la ajuda a localizar os componentes do funículo.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "04_—_ductos_e_glândulas_masculinas-003",
+          "estrutura": "Parte inguinal do ducto deferente",
+          "explicacao": "Segmento que atravessa o canal inguinal rumo à cavidade abdominal.",
+          "curiosidade_clinica": "Sua relação com o anel inguinal importa em hérnias e cirurgias.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "04_—_ductos_e_glândulas_masculinas-004",
+          "estrutura": "Parte pélvica do ducto deferente",
+          "explicacao": "Segmento que alcança a região posterior da bexiga e próstata.",
+          "curiosidade_clinica": "Cruza superiormente o ureter próximo à bexiga.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "04_—_ductos_e_glândulas_masculinas-005",
+          "estrutura": "Ampola do ducto deferente",
+          "explicacao": "Dilatação terminal antes da união com o ducto da glândula seminal.",
+          "curiosidade_clinica": "Contribui para formar o ducto ejaculatório.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "04_—_ductos_e_glândulas_masculinas-006",
+          "estrutura": "Glândula seminal",
+          "explicacao": "Glândula par posterior à bexiga que produz parte significativa do líquido seminal.",
+          "curiosidade_clinica": "Não é simplesmente um reservatório de espermatozoides, apesar do nome.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "04_—_ductos_e_glândulas_masculinas-007",
+          "estrutura": "Ducto ejaculatório",
+          "explicacao": "Canal formado pela união do ducto deferente com o ducto da glândula seminal.",
+          "curiosidade_clinica": "Abre-se na uretra prostática junto ao colículo seminal.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "04_—_ductos_e_glândulas_masculinas-008",
+          "estrutura": "Base da próstata",
+          "explicacao": "Superfície superior próxima ao colo da bexiga.",
+          "curiosidade_clinica": "O crescimento prostático pode dificultar o esvaziamento vesical.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "04_—_ductos_e_glândulas_masculinas-009",
+          "estrutura": "Ápice da próstata",
+          "explicacao": "Extremidade inferior próxima ao esfíncter externo da uretra.",
+          "curiosidade_clinica": "Sua proximidade uretral é importante em cirurgia prostática.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "04_—_ductos_e_glândulas_masculinas-010",
+          "estrutura": "Face posterior da próstata",
+          "explicacao": "Superfície voltada para o reto, separada por planos fasciais.",
+          "curiosidade_clinica": "A proximidade permite avaliação clínica pelo toque retal.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "04_—_ductos_e_glândulas_masculinas-011",
+          "estrutura": "Faces inferolaterais da próstata",
+          "explicacao": "Superfícies relacionadas ao assoalho pélvico e ao levantador do ânus.",
+          "curiosidade_clinica": "Relações musculofasciais importam na preservação de continência.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "04_—_ductos_e_glândulas_masculinas-012",
+          "estrutura": "Face inferior da próstata (termo do roteiro)",
+          "explicacao": "Expressão constante do material que exige revisão de correspondência com ápice e superfícies anatômicas.",
+          "curiosidade_clinica": "O app deverá sinalizar nomenclatura sujeita à conferência docente, não tratá-la como uma face independente consolidada.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "04_—_ductos_e_glândulas_masculinas-013",
+          "estrutura": "Crista uretral prostática",
+          "explicacao": "Crista longitudinal na parede posterior da uretra prostática.",
+          "curiosidade_clinica": "Constitui referência para identificar o colículo seminal.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "04_—_ductos_e_glândulas_masculinas-014",
+          "estrutura": "Colículo seminal",
+          "explicacao": "Elevação da crista uretral onde se relacionam aberturas dos ductos ejaculatórios.",
+          "curiosidade_clinica": "É referência anatômica útil na endoscopia urológica.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "04_—_ductos_e_glândulas_masculinas-015",
+          "estrutura": "Utrículo prostático",
+          "explicacao": "Pequena bolsa cega que se abre próximo ao colículo seminal.",
+          "curiosidade_clinica": "Representa um remanescente do desenvolvimento embrionário.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "04_—_ductos_e_glândulas_masculinas-016",
+          "estrutura": "Seio prostático",
+          "explicacao": "Sulco em cada lado da crista uretral que recebe ductos prostáticos.",
+          "curiosidade_clinica": "Explica por que secreções prostáticas alcançam a uretra nessa região.",
+          "pagina_roteiro": 2
+        },
+        {
+          "id": "04_—_ductos_e_glândulas_masculinas-017",
+          "estrutura": "Glândula bulbouretral",
+          "explicacao": "Pequena glândula par que drena para a uretra esponjosa proximal.",
+          "curiosidade_clinica": "Seu muco contribui para lubrificar a uretra.",
+          "pagina_roteiro": 2
+        }
+      ],
+      "quantidade": 17
+    },
+    {
+      "modulo": "05 — Pênis e corte transversal",
+      "pagina_roteiro": 3,
+      "cena_3d": "Modelo anatômico didático do pênis com secção transversal interativa e estruturas eréteis isoláveis",
+      "estruturas": [
+        {
+          "id": "05_—_pênis_e_corte_transversal-001",
+          "estrutura": "Raiz do pênis",
+          "explicacao": "Parte fixa, constituída por bulbo e ramos ancorados ao períneo.",
+          "curiosidade_clinica": "A fixação ao arco púbico e à membrana perineal ajuda na estabilidade.",
+          "pagina_roteiro": 3
+        },
+        {
+          "id": "05_—_pênis_e_corte_transversal-002",
+          "estrutura": "Ramos do pênis",
+          "explicacao": "Segmentos proximais dos corpos cavernosos fixos aos ramos isquiopúbicos.",
+          "curiosidade_clinica": "São recobertos pelo músculo isquiocavernoso.",
+          "pagina_roteiro": 3
+        },
+        {
+          "id": "05_—_pênis_e_corte_transversal-003",
+          "estrutura": "Bulbo do pênis",
+          "explicacao": "Expansão proximal do corpo esponjoso situada no períneo.",
+          "curiosidade_clinica": "Relaciona-se à uretra e ao músculo bulboesponjoso.",
+          "pagina_roteiro": 3
+        },
+        {
+          "id": "05_—_pênis_e_corte_transversal-004",
+          "estrutura": "Corpo do pênis",
+          "explicacao": "Parte pendente que contém tecidos eréteis e a uretra esponjosa.",
+          "curiosidade_clinica": "Não contém osso, e sua rigidez ocorre pela hemodinâmica dos tecidos eréteis.",
+          "pagina_roteiro": 3
+        },
+        {
+          "id": "05_—_pênis_e_corte_transversal-005",
+          "estrutura": "Rafe do pênis",
+          "explicacao": "Linha de fusão na face inferior do pênis.",
+          "curiosidade_clinica": "É continuidade superficial da rafe escrotal e perineal.",
+          "pagina_roteiro": 3
+        },
+        {
+          "id": "05_—_pênis_e_corte_transversal-006",
+          "estrutura": "Dorso do pênis",
+          "explicacao": "Face superior do órgão em posição anatômica flácida.",
+          "curiosidade_clinica": "É referência para vasos e nervos dorsais durante procedimentos.",
+          "pagina_roteiro": 3
+        },
+        {
+          "id": "05_—_pênis_e_corte_transversal-007",
+          "estrutura": "Corpos cavernosos",
+          "explicacao": "Dois cilindros eréteis dorsais com trabéculas e espaços vasculares.",
+          "curiosidade_clinica": "O enchimento sanguíneo e a restrição do retorno venoso sustentam a ereção.",
+          "pagina_roteiro": 3
+        },
+        {
+          "id": "05_—_pênis_e_corte_transversal-008",
+          "estrutura": "Corpo esponjoso",
+          "explicacao": "Cilindro erétil ventral que envolve a uretra esponjosa.",
+          "curiosidade_clinica": "Mantém a uretra relativamente permeável durante a ereção.",
+          "pagina_roteiro": 3
+        },
+        {
+          "id": "05_—_pênis_e_corte_transversal-009",
+          "estrutura": "Glande do pênis",
+          "explicacao": "Expansão distal do corpo esponjoso.",
+          "curiosidade_clinica": "Concentra terminações sensitivas e abriga o óstio uretral externo.",
+          "pagina_roteiro": 3
+        },
+        {
+          "id": "05_—_pênis_e_corte_transversal-010",
+          "estrutura": "Coroa da glande",
+          "explicacao": "Borda saliente da glande junto ao sulco coronário.",
+          "curiosidade_clinica": "É uma referência anatômica externa importante na inspeção.",
+          "pagina_roteiro": 3
+        },
+        {
+          "id": "05_—_pênis_e_corte_transversal-011",
+          "estrutura": "Colo da glande",
+          "explicacao": "Região estreitada proximal à coroa da glande.",
+          "curiosidade_clinica": "Delimita a passagem para o corpo do pênis.",
+          "pagina_roteiro": 3
+        },
+        {
+          "id": "05_—_pênis_e_corte_transversal-012",
+          "estrutura": "Prepúcio",
+          "explicacao": "Dobra de pele que pode recobrir a glande.",
+          "curiosidade_clinica": "A impossibilidade de retração patológica constitui fimose.",
+          "pagina_roteiro": 3
+        },
+        {
+          "id": "05_—_pênis_e_corte_transversal-013",
+          "estrutura": "Frênulo do prepúcio",
+          "explicacao": "Prega ventral que conecta prepúcio à face inferior da glande.",
+          "curiosidade_clinica": "É uma estrutura sensível cuja tração excessiva pode causar desconforto.",
+          "pagina_roteiro": 3
+        },
+        {
+          "id": "05_—_pênis_e_corte_transversal-014",
+          "estrutura": "Pele do pênis",
+          "explicacao": "Revestimento externo relativamente móvel e fino.",
+          "curiosidade_clinica": "A mobilidade cutânea facilita a expansão do corpo do pênis.",
+          "pagina_roteiro": 3
+        },
+        {
+          "id": "05_—_pênis_e_corte_transversal-015",
+          "estrutura": "Tela subcutânea do pênis",
+          "explicacao": "Tecido conjuntivo subcutâneo superficial aos envoltórios profundos.",
+          "curiosidade_clinica": "Seus planos ajudam a compreender a disseminação de edema.",
+          "pagina_roteiro": 3
+        },
+        {
+          "id": "05_—_pênis_e_corte_transversal-016",
+          "estrutura": "Túnica albugínea dos corpos cavernosos",
+          "explicacao": "Envoltório fibroso espesso que contém os dois corpos cavernosos.",
+          "curiosidade_clinica": "Participa do mecanismo de rigidez ao limitar sua expansão.",
+          "pagina_roteiro": 3
+        },
+        {
+          "id": "05_—_pênis_e_corte_transversal-017",
+          "estrutura": "Septo do pênis",
+          "explicacao": "Partição entre os dois corpos cavernosos, frequentemente incompleta distalmente.",
+          "curiosidade_clinica": "Conecta a organização anatômica bilateral dos corpos cavernosos.",
+          "pagina_roteiro": 3
+        },
+        {
+          "id": "05_—_pênis_e_corte_transversal-018",
+          "estrutura": "Túnica albugínea do corpo esponjoso",
+          "explicacao": "Envoltório fibroso mais delgado ao redor do corpo esponjoso.",
+          "curiosidade_clinica": "Deve ser diferenciada da fáscia profunda do pênis, que é outra camada.",
+          "pagina_roteiro": 3
+        },
+        {
+          "id": "05_—_pênis_e_corte_transversal-019",
+          "estrutura": "Fáscia profunda do pênis (de Buck)",
+          "explicacao": "Envoltório fascial que circunda os tecidos eréteis, profundo à fáscia superficial.",
+          "curiosidade_clinica": "Atua como plano anatômico importante em traumas e cirurgias.",
+          "pagina_roteiro": 3
+        }
+      ],
+      "quantidade": 19
+    },
+    {
+      "modulo": "06 — Ovário, tuba e ligamentos",
+      "pagina_roteiro": 4,
+      "cena_3d": "Cavidade pélvica feminina com anexos móveis, tuba em lupa, folículo e óvulo como animações didáticas",
+      "estruturas": [
+        {
+          "id": "06_—_ovário,_tuba_e_ligamentos-001",
+          "estrutura": "Margem livre do ovário",
+          "explicacao": "Borda ovariana não aderida ao mesovário.",
+          "curiosidade_clinica": "A superfície ovariana e suas relações variam ao longo da vida.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "06_—_ovário,_tuba_e_ligamentos-002",
+          "estrutura": "Margem mesovárica do ovário",
+          "explicacao": "Borda de fixação ao mesovário, relacionada ao hilo ovariano.",
+          "curiosidade_clinica": "É a região de entrada e saída dos vasos ovarianos.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "06_—_ovário,_tuba_e_ligamentos-003",
+          "estrutura": "Extremidade tubária do ovário",
+          "explicacao": "Polo voltado para a tuba uterina.",
+          "curiosidade_clinica": "Sua proximidade com as fímbrias favorece a captação do ovócito.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "06_—_ovário,_tuba_e_ligamentos-004",
+          "estrutura": "Extremidade uterina do ovário",
+          "explicacao": "Polo voltado para o útero.",
+          "curiosidade_clinica": "Dá inserção ao ligamento próprio do ovário.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "06_—_ovário,_tuba_e_ligamentos-005",
+          "estrutura": "Ligamento útero-ovárico",
+          "explicacao": "Faixa fibromuscular que une ovário ao útero.",
+          "curiosidade_clinica": "É remanescente do gubernáculo embrionário.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "06_—_ovário,_tuba_e_ligamentos-006",
+          "estrutura": "Ligamento suspensor do ovário",
+          "explicacao": "Prega peritoneal que fixa ovário à parede lateral e conduz vasos ovarianos.",
+          "curiosidade_clinica": "É um marco crucial para evitar lesões vasculares em anexectomias.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "06_—_ovário,_tuba_e_ligamentos-007",
+          "estrutura": "Infundíbulo da tuba uterina",
+          "explicacao": "Extremidade em funil da tuba, aberta para a cavidade peritoneal pelo óstio abdominal.",
+          "curiosidade_clinica": "Existe comunicação potencial entre a cavidade peritoneal e a via genital feminina.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "06_—_ovário,_tuba_e_ligamentos-008",
+          "estrutura": "Fímbrias da tuba, incluindo fímbria ovárica",
+          "explicacao": "Projeções digitiformes junto ao infundíbulo que auxiliam a captação ovocitária.",
+          "curiosidade_clinica": "O ovócito não percorre um tubo diretamente ligado à superfície ovariana.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "06_—_ovário,_tuba_e_ligamentos-009",
+          "estrutura": "Ampola da tuba uterina",
+          "explicacao": "Segmento mais longo e dilatado da tuba.",
+          "curiosidade_clinica": "É o local mais comum de fertilização e também de gestação tubária.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "06_—_ovário,_tuba_e_ligamentos-010",
+          "estrutura": "Istmo da tuba uterina",
+          "explicacao": "Trecho medial mais estreito e de parede mais espessa.",
+          "curiosidade_clinica": "É referência topográfica em procedimentos tubários.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "06_—_ovário,_tuba_e_ligamentos-011",
+          "estrutura": "Parte uterina da tuba e óstio uterino",
+          "explicacao": "Segmento que atravessa a parede uterina e se abre na cavidade do útero.",
+          "curiosidade_clinica": "Comunica o lúmen tubário diretamente com a cavidade uterina.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "06_—_ovário,_tuba_e_ligamentos-012",
+          "estrutura": "Ligamento redondo do útero",
+          "explicacao": "Faixa derivada do gubernáculo que segue ao canal inguinal até os grandes lábios.",
+          "curiosidade_clinica": "Pode produzir dor por tração durante a gestação.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "06_—_ovário,_tuba_e_ligamentos-013",
+          "estrutura": "Ligamento largo do útero",
+          "explicacao": "Dobra dupla de peritônio que se estende do útero para a parede lateral da pelve.",
+          "curiosidade_clinica": "Não é o principal suporte mecânico do útero, apesar do nome.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "06_—_ovário,_tuba_e_ligamentos-014",
+          "estrutura": "Mesovário",
+          "explicacao": "Pequena prega do ligamento largo que se conecta ao ovário.",
+          "curiosidade_clinica": "Ajuda a localizar o hilo do ovário.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "06_—_ovário,_tuba_e_ligamentos-015",
+          "estrutura": "Mesossalpinge",
+          "explicacao": "Porção do ligamento largo que sustenta a tuba uterina.",
+          "curiosidade_clinica": "Seus vasos e pregas são relevantes na cirurgia das tubas.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "06_—_ovário,_tuba_e_ligamentos-016",
+          "estrutura": "Mesométrio",
+          "explicacao": "Porção maior e inferior do ligamento largo adjacente ao útero.",
+          "curiosidade_clinica": "Seu desdobramento ajuda a reconhecer planos operatórios pélvicos.",
+          "pagina_roteiro": 4
+        }
+      ],
+      "quantidade": 16
+    },
+    {
+      "modulo": "07 — Útero e vagina",
+      "pagina_roteiro": 4,
+      "cena_3d": "Útero flutuante e seccionado, alternando camadas endometrial e muscular, colo e fórnices em detalhe",
+      "estruturas": [
+        {
+          "id": "07_—_útero_e_vagina-001",
+          "estrutura": "Face anterior do útero",
+          "explicacao": "Superfície vesical voltada para a bexiga.",
+          "curiosidade_clinica": "A proximidade anatômica explica a atenção à bexiga em cirurgias uterinas.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "07_—_útero_e_vagina-002",
+          "estrutura": "Face posterior do útero",
+          "explicacao": "Superfície intestinal voltada para o espaço reto-uterino.",
+          "curiosidade_clinica": "O fundo de saco reto-uterino pode acumular líquido livre na pelve.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "07_—_útero_e_vagina-003",
+          "estrutura": "Fundo do útero",
+          "explicacao": "Porção arredondada superior às entradas das tubas uterinas.",
+          "curiosidade_clinica": "Sua altura é parâmetro clínico acompanhado durante a gestação.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "07_—_útero_e_vagina-004",
+          "estrutura": "Corpo do útero",
+          "explicacao": "Maior porção do órgão, com paredes musculares espessas.",
+          "curiosidade_clinica": "As fibras do miométrio são essenciais para contrações uterinas.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "07_—_útero_e_vagina-005",
+          "estrutura": "Colo do útero",
+          "explicacao": "Porção inferior cilíndrica que se continua com a vagina.",
+          "curiosidade_clinica": "A zona de transformação cervical é relevante no rastreamento citológico.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "07_—_útero_e_vagina-006",
+          "estrutura": "Canal do colo do útero",
+          "explicacao": "Canal que conecta a cavidade uterina à vagina através dos óstios.",
+          "curiosidade_clinica": "O muco cervical varia com o ciclo reprodutivo.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "07_—_útero_e_vagina-007",
+          "estrutura": "Porção supravaginal do colo",
+          "explicacao": "Segmento cervical situado acima da inserção da vagina.",
+          "curiosidade_clinica": "Relaciona-se intimamente ao trajeto do ureter na cirurgia pélvica.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "07_—_útero_e_vagina-008",
+          "estrutura": "Istmo do útero",
+          "explicacao": "Região estreita de transição entre o corpo e o colo.",
+          "curiosidade_clinica": "Na gestação contribui para a formação do segmento uterino inferior.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "07_—_útero_e_vagina-009",
+          "estrutura": "Porção vaginal do colo",
+          "explicacao": "Segmento que se projeta para o interior superior da vagina.",
+          "curiosidade_clinica": "Sua projeção delimita os fórnices vaginais.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "07_—_útero_e_vagina-010",
+          "estrutura": "Óstio do útero e lábios anterior/posterior",
+          "explicacao": "Abertura inferior do canal cervical, delimitada pelos lábios do colo.",
+          "curiosidade_clinica": "Seu formato pode variar conforme a história obstétrica.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "07_—_útero_e_vagina-011",
+          "estrutura": "Cavidade do útero",
+          "explicacao": "Espaço interno potencial revestido por endométrio, geralmente triangular em plano frontal.",
+          "curiosidade_clinica": "É a cavidade avaliada na investigação de alterações endometriais.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "07_—_útero_e_vagina-012",
+          "estrutura": "Miométrio",
+          "explicacao": "Espessa camada de músculo liso da parede uterina.",
+          "curiosidade_clinica": "Suas contrações comprimem vasos após o parto e reduzem hemorragia.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "07_—_útero_e_vagina-013",
+          "estrutura": "Endométrio",
+          "explicacao": "Revestimento mucoso interno do corpo uterino, sujeito a mudanças cíclicas.",
+          "curiosidade_clinica": "A camada funcional é eliminada na menstruação; a basal participa da regeneração.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "07_—_útero_e_vagina-014",
+          "estrutura": "Fórnice vaginal",
+          "explicacao": "Recesso da vagina ao redor da porção vaginal do colo.",
+          "curiosidade_clinica": "O fórnice posterior fica próximo ao fundo de saco reto-uterino.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "07_—_útero_e_vagina-015",
+          "estrutura": "Parede anterior da vagina",
+          "explicacao": "Parede fibromuscular adjacente à uretra e à bexiga.",
+          "curiosidade_clinica": "A relação com a uretra é importante para compreender algumas formas de prolapso.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "07_—_útero_e_vagina-016",
+          "estrutura": "Parede posterior da vagina",
+          "explicacao": "Parede próxima ao reto e ao corpo perineal inferiormente.",
+          "curiosidade_clinica": "Suporte deficiente pode participar da formação de retocele.",
+          "pagina_roteiro": 4
+        },
+        {
+          "id": "07_—_útero_e_vagina-017",
+          "estrutura": "Óstio da vagina",
+          "explicacao": "Abertura da vagina no vestíbulo vulvar.",
+          "curiosidade_clinica": "Sua forma e aspecto variam fisiologicamente entre pessoas.",
+          "pagina_roteiro": 4
+        }
+      ],
+      "quantidade": 17
+    },
+    {
+      "modulo": "08 — Pudendo feminino e clitóris",
+      "pagina_roteiro": 5,
+      "cena_3d": "Vista anatômica externa clínica e respeitosa com camadas selecionáveis, mapeamento sensitivo e modelo do clitóris completo",
+      "estruturas": [
+        {
+          "id": "08_—_pudendo_feminino_e_clitóris-001",
+          "estrutura": "Monte da púbis",
+          "explicacao": "Proeminência adiposa anterior à sínfise púbica.",
+          "curiosidade_clinica": "A quantidade de tecido adiposo muda com idade e variações hormonais.",
+          "pagina_roteiro": 5
+        },
+        {
+          "id": "08_—_pudendo_feminino_e_clitóris-002",
+          "estrutura": "Lábios maiores do pudendo",
+          "explicacao": "Pregas cutâneas externas que delimitam a rima do pudendo.",
+          "curiosidade_clinica": "Compartilham origem embrionária com as estruturas escrotais.",
+          "pagina_roteiro": 5
+        },
+        {
+          "id": "08_—_pudendo_feminino_e_clitóris-003",
+          "estrutura": "Comissura anterior dos lábios",
+          "explicacao": "Região onde as extremidades anteriores dos lábios maiores se encontram.",
+          "curiosidade_clinica": "Serve como referência de orientação no exame externo.",
+          "pagina_roteiro": 5
+        },
+        {
+          "id": "08_—_pudendo_feminino_e_clitóris-004",
+          "estrutura": "Comissura posterior dos lábios",
+          "explicacao": "União posterior das pregas labiais, próxima ao períneo.",
+          "curiosidade_clinica": "Sua integridade é relevante ao avaliar trauma perineal obstétrico.",
+          "pagina_roteiro": 5
+        },
+        {
+          "id": "08_—_pudendo_feminino_e_clitóris-005",
+          "estrutura": "Lábios menores do pudendo",
+          "explicacao": "Pregas cutaneomucosas internas que delimitam o vestíbulo.",
+          "curiosidade_clinica": "Seu tamanho e formato apresentam grande variação anatômica normal.",
+          "pagina_roteiro": 5
+        },
+        {
+          "id": "08_—_pudendo_feminino_e_clitóris-006",
+          "estrutura": "Vestíbulo da vagina",
+          "explicacao": "Espaço entre os lábios menores onde desembocam uretra e vagina.",
+          "curiosidade_clinica": "Contém aberturas de glândulas vestibulares.",
+          "pagina_roteiro": 5
+        },
+        {
+          "id": "08_—_pudendo_feminino_e_clitóris-007",
+          "estrutura": "Prepúcio do clitóris",
+          "explicacao": "Prega formada anteriormente pelos lábios menores que cobre parte da glande.",
+          "curiosidade_clinica": "A função protetora é semelhante à de outros prepúcios anatômicos.",
+          "pagina_roteiro": 5
+        },
+        {
+          "id": "08_—_pudendo_feminino_e_clitóris-008",
+          "estrutura": "Frênulo do clitóris",
+          "explicacao": "Prega inferior associada à região da glande clitoriana.",
+          "curiosidade_clinica": "É útil para orientar a identificação de pequenas estruturas vulvares.",
+          "pagina_roteiro": 5
+        },
+        {
+          "id": "08_—_pudendo_feminino_e_clitóris-009",
+          "estrutura": "Clitóris",
+          "explicacao": "Órgão erétil com raízes, corpo e glande; grande parte é interna.",
+          "curiosidade_clinica": "Sua anatomia é muito mais extensa do que apenas a glande visível.",
+          "pagina_roteiro": 5
+        },
+        {
+          "id": "08_—_pudendo_feminino_e_clitóris-010",
+          "estrutura": "Corpo do clitóris",
+          "explicacao": "Porção formada pela união dos corpos cavernosos clitorianos.",
+          "curiosidade_clinica": "Encontra-se ligado aos ramos por estruturas de sustentação.",
+          "pagina_roteiro": 5
+        },
+        {
+          "id": "08_—_pudendo_feminino_e_clitóris-011",
+          "estrutura": "Glande do clitóris",
+          "explicacao": "Extremidade visível com elevada sensibilidade tátil.",
+          "curiosidade_clinica": "A densidade de terminações sensitivas explica sua importância sensorial.",
+          "pagina_roteiro": 5
+        },
+        {
+          "id": "08_—_pudendo_feminino_e_clitóris-012",
+          "estrutura": "Óstio externo da uretra feminina",
+          "explicacao": "Abertura da via urinária no vestíbulo, anterior ao óstio vaginal.",
+          "curiosidade_clinica": "Sua identificação ajuda a diferenciar vias urinária e genital.",
+          "pagina_roteiro": 5
+        },
+        {
+          "id": "08_—_pudendo_feminino_e_clitóris-013",
+          "estrutura": "Óstio da vagina no vestíbulo",
+          "explicacao": "Abertura genital posterior ao meato uretral externo.",
+          "curiosidade_clinica": "A anatomia dessa região é variável e não permite inferir histórico sexual.",
+          "pagina_roteiro": 5
+        }
+      ],
+      "quantidade": 13
+    },
+    {
+      "modulo": "09 — Pelve, parede pélvica e períneo",
+      "pagina_roteiro": 6,
+      "cena_3d": "Pelve óssea em 3D com planos obstétricos, músculos coloridos por camadas e diafragma pélvico móvel",
+      "estruturas": [
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-001",
+          "estrutura": "Conjugado anatômico da entrada pélvica",
+          "explicacao": "Distância ântero-posterior entre promontório sacral e margem superior da sínfise púbica.",
+          "curiosidade_clinica": "Os valores didáticos em centímetros são aproximados e dependem de variação individual.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-002",
+          "estrutura": "Conjugado obstétrico",
+          "explicacao": "Menor distância ântero-posterior relevante da entrada pélvica para a passagem fetal.",
+          "curiosidade_clinica": "É um parâmetro obstétrico estimado, não diretamente mensurável ao toque comum.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-003",
+          "estrutura": "Conjugado diagonal",
+          "explicacao": "Distância do promontório sacral à margem inferior da sínfise púbica.",
+          "curiosidade_clinica": "Pode ser estimado em exame vaginal e ajudar a inferir o conjugado obstétrico.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-004",
+          "estrutura": "Diâmetro transverso máximo da entrada",
+          "explicacao": "Maior largura transversal do estreito superior da pelve.",
+          "curiosidade_clinica": "Mostra por que a entrada pélvica não deve ser avaliada por uma só medida.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-005",
+          "estrutura": "Diâmetro interespinhoso (biespinal)",
+          "explicacao": "Distância entre as espinhas isquiáticas, no estreito médio da pelve.",
+          "curiosidade_clinica": "A referência do roteiro como diâmetro da saída exige correção topográfica.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-006",
+          "estrutura": "Diâmetro sagital da saída pélvica",
+          "explicacao": "Medida ântero-posterior da saída da pelve, definida por referências ósseas.",
+          "curiosidade_clinica": "Pode variar com a mobilidade do cóccix.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-007",
+          "estrutura": "Ligamento sacrotuberal",
+          "explicacao": "Ligamento que une sacro à tuberosidade isquiática.",
+          "curiosidade_clinica": "Junto com o sacroespinal, transforma incisuras isquiáticas em forames.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-008",
+          "estrutura": "Ligamento sacroespinal",
+          "explicacao": "Ligamento do sacro/cóccix à espinha isquiática.",
+          "curiosidade_clinica": "Divide os forames isquiáticos maior e menor.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-009",
+          "estrutura": "Músculo obturador interno",
+          "explicacao": "Músculo da parede lateral pélvica que sai pelo forame isquiático menor.",
+          "curiosidade_clinica": "Sua fáscia forma arco tendíneo para inserção do levantador do ânus.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-010",
+          "estrutura": "Músculo piriforme",
+          "explicacao": "Músculo da parede posterolateral pélvica que atravessa o forame isquiático maior.",
+          "curiosidade_clinica": "Divide a passagem de importantes vasos e nervos em regiões supra e infrapiriformes.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-011",
+          "estrutura": "Músculo isquiococcígeo (coccígeo)",
+          "explicacao": "Músculo do diafragma pélvico estendido da espinha isquiática ao sacro/cóccix.",
+          "curiosidade_clinica": "Contribui para o apoio das vísceras e acompanha o ligamento sacroespinal.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-012",
+          "estrutura": "Músculo levantador do ânus",
+          "explicacao": "Grupo muscular principal do diafragma pélvico, suporte das vísceras.",
+          "curiosidade_clinica": "Sua integridade é importante na continência e nos prolapsos pélvicos.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-013",
+          "estrutura": "Músculo puborretal",
+          "explicacao": "Alça do levantador do ânus em torno da junção anorretal.",
+          "curiosidade_clinica": "Mantém o ângulo anorretal, relevante para a continência fecal.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-014",
+          "estrutura": "Músculo pubococcígeo",
+          "explicacao": "Componente medial do levantador do ânus com inserções variadas.",
+          "curiosidade_clinica": "Participa do suporte de uretra, vagina/próstata e reto.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-015",
+          "estrutura": "Músculo iliococcígeo",
+          "explicacao": "Porção posterolateral mais delgada do levantador do ânus.",
+          "curiosidade_clinica": "Forma uma espécie de plataforma muscular de suporte pélvico.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-016",
+          "estrutura": "Músculo bulboesponjoso",
+          "explicacao": "Músculo superficial do períneo que envolve estruturas do bulbo genital.",
+          "curiosidade_clinica": "Sua ação difere conforme a organização genital, atuando na dinâmica perineal.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-017",
+          "estrutura": "Músculo isquiocavernoso",
+          "explicacao": "Músculo superficial que recobre ramos dos corpos cavernosos.",
+          "curiosidade_clinica": "Auxilia a manutenção da rigidez dos tecidos eréteis.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-018",
+          "estrutura": "Músculo transverso superficial do períneo",
+          "explicacao": "Músculo que converge para o corpo perineal.",
+          "curiosidade_clinica": "O corpo perineal é um ponto de ancoragem central para vários músculos.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-019",
+          "estrutura": "Músculo transverso profundo do períneo",
+          "explicacao": "Componente muscular do espaço perineal profundo, com variabilidade anatômica.",
+          "curiosidade_clinica": "Sua individualização pode variar entre sexos e descrições anatômicas.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-020",
+          "estrutura": "Fossa isquioanal",
+          "explicacao": "Espaço cheio de gordura ao lado do canal anal, abaixo do diafragma pélvico.",
+          "curiosidade_clinica": "Abscessos podem espalhar-se por seus compartimentos.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-021",
+          "estrutura": "Membrana do períneo",
+          "explicacao": "Lâmina fibrosa entre os ramos isquiopúbicos, no triângulo urogenital.",
+          "curiosidade_clinica": "Separa e delimita planos do períneo profundo e superficial.",
+          "pagina_roteiro": 6
+        },
+        {
+          "id": "09_—_pelve,_parede_pélvica_e_períneo-022",
+          "estrutura": "Diafragma pélvico",
+          "explicacao": "Conjunto do levantador do ânus e do músculo coccígeo com suas fáscias.",
+          "curiosidade_clinica": "Move-se dinamicamente na respiração, esforço e sustentação visceral.",
+          "pagina_roteiro": 6
+        }
+      ],
+      "quantidade": 22
+    }
+  ],
+  "prompts": {
+    "PROMPT MESTRE — construir o PWA": "Crie um PWA educacional de Anatomia Humana para Medicina chamado ATLAS IMERSIVO | ANATOMIA CLÍNICA. Utilize integralmente o banco JSON fornecido, sem omitir estruturas e sem fundir estruturas distintas. O roteiro é dividido em nove cenas: rins/suprarrenais; ureter/bexiga/uretra; escroto/testículo/epidídimo/funículo; ductos/glândulas masculinas; pênis; ovário/tubas/ligamentos; útero/vagina; pudendo/clitóris; pelve/períneo. Interface em português, pensada para Android, tablet, iPhone e desktop. Cada estrutura deve ter ponto clicável anatomicamente alinhado sobre um modelo 3D GLB/glTF, nome, localização, função, explicação do banco, curiosidade clínica, relação espacial, desafio interativo e botão “ver em corte”. NÃO criar hotspots aleatórios nem prometer 3D interativo se apenas uma imagem estática estiver disponível: implemente viewer real com Three.js/model-viewer, rotação por toque, zoom, ocultar/exibir camadas, destacar a malha correta e vista anterior/posterior/coronal/sagital. Caso falte modelo 3D, ofereça SVG anatômico identificado como esquema didático, sem simular precisão de posição. Progresso persistente, estudo offline de textos e imagens, revisão espaçada opcional, acessibilidade e versão instalável com manifest, service worker, ícones 192x192 e 512x512 (inclusive maskable). Visual anime médico 3D de altíssima qualidade, com anatomia fiel, sem gore, paleta azul (orientação), vermelho (artérias), roxo (veias/associação), verde (trajetos), dourado (descobertas), fundo grafite/azul-marinho; iluminação volumétrica discreta. Inclusão de ‘Revisão de nomenclatura’ nos termos apontados. Todo conteúdo deve ser autoral, com referência geral: Moore: Anatomia Orientada para a Clínica, sem inventar citações de páginas. Não copie ilustrações proprietárias.",
+    "PROMPT — identidade visual cinematográfica": "Desenhe a interface de um atlas anatômico PWA de Medicina como se fosse um laboratório holográfico premium, composição cinematográfica 3D, atmosfera científica elegante, renderização PBR realista-didática, materiais translúcidos, emissão luminosa sutil nas estruturas selecionadas, tipografia sem serifa muito legível, painel lateral de vidro fosco, arquitetura visual de investigação clínica, indicadores discretos de orientação anatômica, sem excesso de neon, sem poluição visual. No centro, uma peça anatômica anatomicamente correta em alta definição; em volta, nomes curtos e linhas-guia finas. Na parte inferior, barra com ‘Explorar’, ‘Cortes’, ‘Camadas’, ‘Caso clínico’, ‘Quiz’. Interface responsiva 9:16 celular, 4:3 tablet e 16:9 desktop. Nada de anatomia fantástica, nomes trocados ou artérias impossíveis.",
+    "PROMPT — tela de estrutura": "Ao tocar uma estrutura, faça a câmera aproximar com transição de 450–700 ms, destacar somente a malha correta em dourado sutil e deixar vizinhos com transparência 20–35%. Abra um card com: nome oficial; localização em uma frase; explicação anatômico-funcional clara em 25–50 palavras; ‘Você sabia?’ (curiosidade clínica em 15–35 palavras); botão ‘Gire para reconhecer’; botão ‘Ver na prática’; desafio de localizar a estrutura sem rótulo; feedback científico respeitoso. Aplique os textos exatamente do JSON após revisão docente. Botões grandes para toque; leitura em voz opcional; legenda nas animações; nenhuma informação escondida apenas por hover.",
+    "PROMPT — atlas em camadas": "Implemente controles de camadas para pele/tecido subcutâneo, fáscias, órgãos, músculos, vasos, nervos e vias urinárias ou genitais conforme disponibilidade real de malhas. Ao deslizar o controle, execute uma dissecação digital progressiva de fora para dentro; permitir isolamento, reset, comparação direita/esquerda e captura sem rótulos para avaliação. Preserve relações topográficas, proporções e lateridade. Não confundir fáscia profunda do pênis com túnica albugínea; não representar pelve renal como dilatação distal ao ureter; não desenhar testículo aderido à tuba.",
+    "PROMPT — microdesafio e moedas": "Após cada estrutura, oferecer um microdesafio de 20–40 s: localizar em vista diferente, arrastar o nome para o hotspot ou escolher a relação clínica. Resposta correta: +10 pontos e uma moeda anatômica com efeito delicado; incorreta: destacar pista anatômica e permitir tentar novamente sem penalidade humilhante. Recompensas cosméticas, não bloqueie conhecimento. Após 5 estruturas, liberar um caso clínico contextualizado. Fornecer acessibilidade para teclado, leitores de tela, contraste e redução de movimento.",
+    "PROMPT — cena renal": "Crie cena didática 3D do retroperitônio com os rins em posição anatômica e suprarrenais, vista anterior e posterior. Alternar rim íntegro e corte coronal mostrando córtex, colunas, pirâmides, papilas, cálices menores, cálices maiores e pelve renal; iluminar o trajeto de uma gota da papila ao ureter. Modo vascular com segmentação renal e artérias arqueadas, sem trocar posições entre cálice e pelve. Animações sutis de respiração e de escoamento da urina. Fundo escuro, texturas realistas não fotográficas, tipografia limpa.",
+    "PROMPT — cena vias urinárias": "Mostre ureteres retroperitoneais, bexiga em repouso e enchimento e uretras masculina/feminina em modos separados. Animação de peristalse ureteral e chegada da urina por trajetos intramurais oblíquos. Fazer zoom no trígono vesical com três aberturas corretamente dispostas e na prega interuretérica. Mostrar transparência gradual do colo vesical, uretra prostática/membranácea/esponjosa e uretra feminina, sem misturar os modelos anatômicos.",
+    "PROMPT — cena genital masculino": "Atlas anatômico médico 3D do escroto, testículo, epidídimo, funículo espermático, ducto deferente, vesículas seminais, próstata, glândulas bulbouretrais e pênis. Modo de camadas das fáscias e túnicas do escroto; zoom da cabeça/corpo/cauda do epidídimo. Em segundo plano, trajeto verde delicado que acompanha o ducto deferente até a uretra prostática. Cortes do pênis mostram dois corpos cavernosos dorsais e um corpo esponjoso ventral com uretra, sempre anatomia clínica respeitosa, não sexualizada.",
+    "PROMPT — cena genital feminino": "Atlas médico 3D da pelve feminina, com ovários, tubas uterinas, ligamento largo, útero e vagina, mais uma cena externa separada com anatomia completa do pudendo e clitóris. Ampliação da ampola tubária e da relação entre fímbrias e ovário. Mostrar útero em corte longitudinal e frontal com miométrio, endométrio, canal cervical e fórnices. Exibir clitóris completo incluindo regiões internas sem redução à glande. Visual clínico pedagógico, proporções corretas e variação anatômica representada respeitosamente.",
+    "PROMPT — cena pelve e períneo": "Crie uma pelve óssea translúcida em 3D, com planos da entrada, estreito médio e saída assinalados. Animar isoladamente os conjugados e o diâmetro interespinhoso NO ESTREITO MÉDIO. Mostrar músculos obturador interno, piriforme, levantador do ânus (puborretal, pubococcígeo e iliococcígeo), coccígeo e músculos do períneo em camadas. Para o puborretal, animar suavemente o ângulo anorretal. Não tratar diâmetros médios como valores universais. Interface de investigação clínica com cores e etiquetas discretas."
+  },
+  "alertas_de_revisao": [
+    "Numeração 23 da vascularização renal repete “artéria do segmento renal superior”; mostrar apenas uma estrutura e marcar a duplicata para revisão.",
+    "Na página 1 há itens em branco e números interrompidos na coluna do ureter/bexiga; não criar estruturas para preencher lacunas.",
+    "A página 2 menciona “face inferior da próstata”; verificar nomenclatura, pois ápice, base e superfícies anterior, posterior e inferolaterais são referências convencionais.",
+    "A página 3 aproxima indevidamente “túnica albugínea” e “fáscia profunda do pênis” entre parênteses; ensinar como envoltórios distintos.",
+    "A página 4 contém erros de grafia e designação (como “óstio” escrito de outras formas); aplicar correção editorial sem atribuir novo conteúdo ao documento.",
+    "A página 6 chama o diâmetro biespinal/interespinhoso de “saída”; mostrar corretamente no estreito médio da pelve.",
+    "Os centímetros das medidas pélvicas são valores didáticos aproximados, não critérios universais de avaliação obstétrica.",
+    "O roteiro inclui duplicação de “músculo obturador interno”; deduplicar a malha e preservar o apontamento editorial.",
+    "As curiosidades e explicações são conteúdo autoral em linha com a perspectiva anatômico-clínica do Moore, mas não são transcrição nem citação de páginas da obra; exigem revisão docente antes da publicação."
+  ]
+}
