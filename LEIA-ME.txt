@@ -18,3 +18,5 @@ PWA precisa de endereço HTTPS (ou localhost). Publique esta pasta em uma hosped
 
 OBSERVAÇÃO ACADÊMICA
 A imagem anatômica é ilustrativa e as moléculas móveis são simulações didáticas, NÃO 3D de malha anatomicamente vinculada. Regras fisiológicas são simplificadas; imagens e legendas fornecidas devem passar por revisão anatômica antes do uso como gabarito oficial.
+
+GERAR PDF: clique no botão "Gerar PDF" no topo do Atlas ou da Missão Néfron. Marque imagens com "Marcar slide" na apresentação. Respostas escolhidas nos desafios e destinos das moléculas ficam registrados no dispositivo e aparecem no PDF, com acertos e explicações. PDF gerado diretamente, offline, sem serviços externos.

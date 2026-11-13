@@ -14,7 +14,7 @@
  <div class="app-shell">
   <header class="topbar">
    <button class="brand" data-route="inicio" aria-label="Ir para o início"><span class="brand-mark">⌕</span><span class="brand-text"><strong>ANATOMIA EM MISTÉRIO</strong><small>ATLAS IMERSIVO · UEM</small></span></button>
-   <div class="top-right"><span class="coin-chip" title="Moedas recebidas em desafios"><img class="coin-icon" src="assets/1000051016.webp" alt=""> <strong id="coinsTop">0</strong></span><button id="importBtn" class="icon-button" title="Adicionar imagens ao atlas" aria-label="Adicionar imagens">＋ <span class="hide-mobile">Imagens</span></button><button id="installBtn" class="button-install" hidden>Instalar app</button></div>
+   <div class="top-right"><span class="coin-chip" title="Moedas recebidas em desafios"><img class="coin-icon" src="assets/1000051016.webp" alt=""> <strong id="coinsTop">0</strong></span><button id="importBtn" class="icon-button" title="Adicionar imagens ao atlas" aria-label="Adicionar imagens">＋ <span class="hide-mobile">Imagens</span></button><button class="button-pdf" id="pdfReportBtn" type="button" title="Exportar respostas e slides marcados em PDF">▣ Gerar PDF</button><button id="installBtn" class="button-install" hidden>Instalar app</button></div>
   </header>
   <nav class="primary-nav" aria-label="Navegação principal">
    <button data-route="inicio" class="nav-item"><span>⌂</span> Início</button>
@@ -34,7 +34,7 @@
    </section>
 
    <section id="slides" class="view">
-    <div class="section-head"><div><span class="eyebrow">MODO APRESENTAÇÃO</span><h1>Slides imersivos</h1><p>Deslize na imagem ou use as setas para avançar. Amplie para ler os detalhes.</p></div><div class="section-head-actions"><button class="btn btn-outline btn-small" id="slidesImport">＋ Adicionar</button><button class="btn btn-gold btn-small" id="presentationBtn">⛶ Tela cheia</button></div></div>
+    <div class="section-head"><div><span class="eyebrow">MODO APRESENTAÇÃO</span><h1>Slides imersivos</h1><p>Deslize na imagem ou use as setas para avançar. Amplie para ler os detalhes.</p></div><div class="section-head-actions"><button class="btn btn-outline btn-small" id="slidesImport">＋ Adicionar</button><button class="btn btn-outline btn-small" id="markSlideBtn" type="button" aria-pressed="false">☆ Marcar slide</button><button class="btn btn-gold btn-small" id="presentationBtn">⛶ Tela cheia</button></div></div>
     <div class="slide-layout">
      <div class="slide-primary">
       <div class="slide-stage" id="slideStage" tabindex="0" aria-label="Apresentação de imagens anatômicas">
@@ -1787,6 +1787,7 @@
     "As curiosidades e explicações são conteúdo autoral em linha com a perspectiva anatômico-clínica do Moore, mas não são transcrição nem citação de páginas da obra; exigem revisão docente antes da publicação."
   ]
 }</script>
+ <script src="relatorio-pdf.js" defer></script>
  <script src="app.js" defer></script>
  <script src="laboratorio.js" defer></script>
 </body>
